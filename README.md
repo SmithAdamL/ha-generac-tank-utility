@@ -1,5 +1,8 @@
 # Generac Tank Utility Integration (v0.1.0)
 
+IMPORTANT UPDATE: 6/7/2025 - This integration is no longer going to be supported.  "The Tank Utility team has been acquired by ANOVA and is no longer part of Generac"  This integration worked on the legacy Tank Utility API's and Generac Mobile Link support has failed to respond to my requests for API information.
+
+
 A Home Assistant custom integration for monitoring Tank Utility (Generac) propane tank monitors. This integration uses Home Assistant’s UI config flow with Basic Authentication to connect to your Tank Utility account, retrieve detailed sensor data (fuel level, temperature, battery status, etc.), and supports per‑tank configurable polling intervals.
 
 > **Note:** MQTT publishing is in the process of being implemented in the code and shows in the configuation, but is not in use at this time.
